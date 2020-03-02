@@ -1,0 +1,8 @@
+{
+  "name": "TradeHelper",
+  "creator": "FalseHonesty",
+  "description": "A module to display the average price of a trade. Big thanks to builder_247 for the idea.",
+  "requires": ["slothpixel", "Promise", "numeraljs"],
+  "version": "1.0.0",
+  "entry": "index.js"
+}
